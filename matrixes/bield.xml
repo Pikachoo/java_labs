@@ -1,0 +1,31 @@
+<project name="AntExample" default="all" >
+
+    <target name="make_dirs" description="Make some dirs">
+        <mkdir dir="build"/>
+        <mkdir dir="build/classes"/>
+    </target>
+
+    <target name="compile" description="compile java" depends="make_dirs">
+        <javac destdir="build/classes" includes="**/*.java" excludes="**/*Test.java">
+            <classpath>
+                <pathelement path="../libs/junit-4.10.jar"/>
+                <pathelement path="../libs/log4j-1.2.17.jar"/>
+            </classpath>
+            <src path="src/Matrix"/>
+        </javac>
+    </target>
+
+    <target name="make_jar" description="make jar file" depends="compile">
+        <jar destfile="build/my-project.jar">
+            <fileset dir="build/classes">
+                <include name="**/*.class"/>
+                <exclude name="**/*Test.class"/>
+            </fileset>
+        </jar>
+    </target>
+
+
+
+    <target name="all" description="Do the build" depends="make_jar"/>
+
+</project>

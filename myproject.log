@@ -1,0 +1,14 @@
+15:56:32,117  WARN main MatrixTemlateTest:testIsEmpty:38 - testIsEmpty() passed
+16:05:54,796  WARN main MatrixTemlateTest:testIsEmpty:38 - testIsEmpty() passed
+16:06:15,822  WARN main MatrixTemlateTest:testIsEmpty:38 - testIsEmpty() passed
+16:07:22,456  WARN main MatrixTemlateTest:testIsEmpty:38 - testIsEmpty() passed
+15:55:51,597  WARN main MatrixTemlateTest:testIsEmpty:38 - testIsEmpty() passed
+00:27:18,775  WARN main MatrixTemlateTest:testIsEmpty:40 - testIsEmpty() passed
+01:56:13,908  WARN main MatrixTemplateTest:testIsEmpty:51 - testIsEmpty() passed
+01:58:06,217 ERROR main FileWR:write:64 - java.io.FileNotFoundException: D:\home\nastya\Desktop\primer (The system cannot find the path specified)
+01:58:06,220 ERROR main FileWR:write:64 - java.io.FileNotFoundException: D:\home\nastya\Desktop\primer (The system cannot find the path specified)
+01:58:35,711 ERROR main FileWR:write:64 - java.io.FileNotFoundException: D:\home\nastya\Desktop\primer (The system cannot find the path specified)
+01:58:35,717 ERROR main FileWR:write:64 - java.io.FileNotFoundException: D:\home\nastya\Desktop\primer (The system cannot find the path specified)
+01:59:02,362  WARN main MatrixTemplateTest:testIsEmpty:51 - testIsEmpty() passed
+22:50:06,229 ERROR main FileWR:write:64 - java.io.FileNotFoundException: D:\home\nastya\Desktop\primer (Системе не удается найти указанный путь)
+22:50:06,237 ERROR main FileWR:write:64 - java.io.FileNotFoundException: D:\home\nastya\Desktop\primer (Системе не удается найти указанный путь)

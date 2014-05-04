@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Nastya-PC" name="Test.MatrixTemplateTest" tests="2" time="0.042" timestamp="2014-05-04T19:58:21">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="lib.dir" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\libs" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="dist" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes" />
+    <property name="os.name" value="Windows 7" />
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_51\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_51\jre\classes" />
+    <property name="TODAY" value="May 4 2014" />
+    <property name="user.country.format" value="BY" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant" />
+    <property name="java.runtime.version" value="1.7.0_51-b13" />
+    <property name="user.name" value="Nastya" />
+    <property name="user.language.format" value="be" />
+    <property name="user.language" value="ru" />
+    <property name="build" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes\build" />
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.7.0_51\jre\bin" />
+    <property name="ant.project.default-target" value="dist" />
+    <property name="ant.project.name" value="MyApp" />
+    <property name="DSTAMP" value="20140504" />
+    <property name="java.version" value="1.7.0_51" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1251" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="java.class.version" value="51.0" />
+    <property name="src" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes\src" />
+    <property name="user.country" value="RU" />
+    <property name="java.home" value="C:\Program Files\Java\jdk1.7.0_51\jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes\bield_2.xml" />
+    <property name="os.version" value="6.1" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="24.51-b03" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="junit.results" value="test-results" />
+    <property name="user.home" value="C:\Users\Nastya" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.7.0_51\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;." />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="com.intellij.rt.ant.execution.AntMain2 -logger com.intellij.rt.ant.execution.IdeaAntLogger2 -inputhandler com.intellij.rt.ant.execution.IdeaInputHandler -buildfile D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes\bield_2.xml" />
+    <property name="java.class.path" value="C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-antlr.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-apache-bcel.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-apache-bsf.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-apache-log4j.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-apache-oro.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-apache-regexp.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-apache-resolver.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-apache-xalan2.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-commons-logging.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-commons-net.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-jai.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-javamail.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-jdepend.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-jmf.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-jsch.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-junit.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-launcher.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-netrexx.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-swing.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant-testutil.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant.jar;C:\Program Files\Java\jdk1.7.0_51\lib\tools.jar;C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\idea_rt.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.8.2 compiled on December 20 2010" />
+    <property name="TSTAMP" value="2258" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.vm.specification.version" value="1.7" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="Service Pack 1" />
+    <property name="src.test" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes\src\test" />
+    <property name="java.io.tmpdir" value="C:\Users\Nastya\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.7.0_51\jre\lib\ext;C:\Windows\Sun\Java\lib\ext" />
+    <property name="user.dir" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes" />
+    <property name="ant.file.type.MyApp" value="file" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="ant.file.MyApp" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes\bield_2.xml" />
+    <property name="basedir" value="D:\универ\шестой семестр\итирод\my_labs\my_labs\matrixes" />
+    <property name="ant.java.version" value="1.7" />
+    <property name="ant.core.lib" value="C:\Users\Nastya\IntelliJ IDEA 13.0.2\lib\ant\lib\ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.7" />
+    <property name="ant.project.invoked-targets" value="dist" />
+  </properties>
+  <testcase classname="Test.MatrixTemplateTest" name="testPutElement" time="0.005" />
+  <testcase classname="Test.MatrixTemplateTest" name="testIsEmpty" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[log4j:WARN No appenders could be found for logger (Test.MatrixTemplateTest).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+]]></system-err>
+</testsuite>
